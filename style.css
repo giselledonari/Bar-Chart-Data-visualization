@@ -1,0 +1,38 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(228, 228, 228);
+}
+div{
+
+    justify-content: center;
+}
+.titulo{
+    font-size: 20px;
+    align-self: center;
+}
+
+.eje{
+    font-size: 15px;
+}
+
+.bar{
+    fill: #69b3a2;
+}
+
+.barOn{
+    fill:white;
+}
+
+.grafico{
+    background-color:white;
+}
+
+.tooltip{
+    color: black;
+    position: absolute;
+    font-size: 12px;
+    background-color: white;
+    border: 1px solid #69b3a2 ;
+    border-radius: 5px;
+    padding: 10px;
+}
